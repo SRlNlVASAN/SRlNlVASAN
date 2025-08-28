@@ -7,7 +7,7 @@ SQL Developer @ Techorc Software Solutions
 - 🏢 Engineeing at Techorc Software [<img src="https://www.techorc.in/images/logo.svg" height="24">](https://www.techorc.in/)
 - 🏢 Previously worked with Aidas [<img src="https://www.aidastech.com/wp-content/uploads/2023/05/aidas-logo-1.png" height="24">](https://www.aidastech.com/)
 - 📸 Fun fact : I love photography
-<br/>
+
 > *Social Media Handles* <br />
 > [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/srinivasan4610/) <br/>
 > [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/__._srinivasan_.__?igsh=MWxvcnIyYmh5ZDlnMA==&utm_source=ig_contact_invite)
@@ -18,7 +18,6 @@ SQL Developer @ Techorc Software Solutions
 ### IDE and Tools I Use :
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" src="https://www.logo.wine/a/logo/DBeaver/DBeaver-Logo.wine.svg" /> <img height="50" width="50" src="https://img.icons8.com/fluency/48/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://github.com/user-attachments/assets/bf44cb9b-ef1f-4738-8ab0-f34dd5941cb3" /> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
 
----
 ### 💻 Workspace Spec :
 <img height="30" src="https://img.shields.io/badge/MSI-GL63_9RCX-ED1C24?style=for-the-badge&logo=msi&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX_1050ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Corei5_9300H-ED1C24?style=for-the-badge&logo=intel&logoColor=white"/> 
 
