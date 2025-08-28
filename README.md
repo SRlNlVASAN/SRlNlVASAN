@@ -5,7 +5,7 @@ SQL Developer @ Techorc Software Solutions
 - 🔭 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)                                                 
 - 🌱 I'm currently focused on building scalable data pipelines & optimizing our existing data infrastructure for reporting. [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - 🏢 Engineeing at Techorc Software [<img src="https://www.techorc.in/images/logo.svg" height="24">](https://www.techorc.in/)
-- 🏢 Previously worked with Aidas [<img src="https://www.aidastech.com/wp-content/uploads/2023/05/aidas-logo-1.png" height="24">](https://www.aidastech.com/)
+- 🏢 Previously worked with AidasTech [<img src="https://www.aidastech.com/wp-content/uploads/2023/05/aidas-logo-1.png" height="24">](https://www.aidastech.com/)
 - 📸 Fun fact : I ❤️ photography
 
 > *Social Media Handles* <br />
