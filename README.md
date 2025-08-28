@@ -6,7 +6,7 @@ SQL Developer @ Techorc Software Solutions
 - 🌱 I'm currently focused on building scalable data pipelines & optimizing our existing data infrastructure for reporting. [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - 🏢 Engineeing at Techorc Software [<img src="https://www.techorc.in/images/logo.svg" height="24">](https://www.techorc.in/)
 - 🏢 Previously worked with Aidas [<img src="https://www.aidastech.com/wp-content/uploads/2023/05/aidas-logo-1.png" height="24">](https://www.aidastech.com/)
-- 📸 Fun fact : I love photography
+- 📸 Fun fact : I ❤️ photography
 
 > *Social Media Handles* <br />
 > [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/srinivasan4610/) <br/>
@@ -21,5 +21,4 @@ SQL Developer @ Techorc Software Solutions
 ### 💻 Workspace Spec :
 <img height="30" src="https://img.shields.io/badge/MSI-GL63_9RCX-ED1C24?style=for-the-badge&logo=msi&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX_1050ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Corei5_9300H-ED1C24?style=for-the-badge&logo=intel&logoColor=white"/> 
 
-📊
 ![Srinivasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRlNlVASAN&theme=dark&show_icons=true&&hide=issues,contribs)
