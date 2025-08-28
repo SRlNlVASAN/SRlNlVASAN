@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Srinivasan
 
 SQL Developer @ Techorc Software Solutions
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3puY2s4cmswNDQ2NnYxMnY0NzA4b2I0NGR2bzliMnVjZHE4aG5raiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TJP7EH5i1fB2rKeWbf/giphy.gif">
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3puY2s4cmswNDQ2NnYxMnY0NzA4b2I0NGR2bzliMnVjZHE4aG5raiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3osxYc2axjCJNsCXyE/giphy.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
 - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
