@@ -7,10 +7,8 @@ SQL Developer @ Techorc Software Solutions
 - 🏢 Engineeing at Techorc Software [<img src="https://www.techorc.in/images/logo.svg" height="24">](https://www.techorc.in/)
 - 🏢 Previously worked with Aidas [<img src="https://www.aidastech.com/wp-content/uploads/2023/05/aidas-logo-1.png" height="24">](https://www.aidastech.com/)
 - 📸 Fun fact : I love photography
-<br/>
-> Social Media Handles
-> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/srinivasan4610/)
-> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/__._srinivasan_.__?igsh=MWxvcnIyYmh5ZDlnMA==&utm_source=ig_contact_invite)
+- Social Media Handles
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/srinivasan4610/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/__._srinivasan_.__?igsh=MWxvcnIyYmh5ZDlnMA==&utm_source=ig_contact_invite)
 
 ### I Code In
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
