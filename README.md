@@ -10,7 +10,6 @@ SQL Developer @ Techorc Software Solutions
 
 > *Social Media Handles* <br />
 > [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/srinivasan4610/) <br/>
-> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/__._srinivasan_.__?igsh=MWxvcnIyYmh5ZDlnMA==&utm_source=ig_contact_invite)
 ---
 ### I Code In :
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/fluency/48/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/microsoft-sql-server.png" /> <img height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-sqlite-icon-svg-png-download-282687.png?f=webp&w=256"/>
