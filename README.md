@@ -8,9 +8,9 @@ SQL Developer @ Techorc Software Solutions
 - 🏢 Previously worked with AidasTech [<img src="https://www.aidastech.com/wp-content/uploads/2023/05/aidas-logo-1.png" height="24">](https://www.aidastech.com/)
 - 📸 Fun fact : I ❤️ photography
 
-> My_work_Experiences:
-> worked as a jr data engineer
-> worked as a sql developer
+> My Work Experiences: <br />
+- worked as a jr data engineer
+- worked as a sql developer
 
 > *Social Media Handles* <br />
 > [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/srinivasan4610/) <br/>
