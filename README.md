@@ -35,7 +35,7 @@ SQL Developer @ Techorc Software Solutions
 
 ###v3
 <div style="text-align: center;">
-  <img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/idF4fnHpaJ_logos.png" alt="Icon 1" style="height: 50px; vertical-align: middle;">
+  <img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/idF4fnHpaJ_logos.png" alt="Icon 1" style="height: 48px; vertical-align: middle;">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" alt="Icon 2" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="Icon 3" style="height: 50px; vertical-align: middle;">
 </div>
