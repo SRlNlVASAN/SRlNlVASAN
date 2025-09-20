@@ -19,7 +19,7 @@ SQL Developer @ Techorc Software Solutions
 
 <div style="text-align: center;">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" style="height: 50px; vertical-align: middle;">
-  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql" style="height: 50px; vertical-align: middle;">
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" style="height: 51px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="sqlserver" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" style="height: 50px; vertical-align: middle;">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-sqlite-icon-svg-png-download-282687.png?f=webp&w=256" alt="sqlite" style="height: 50px; vertical-align: middle;">
@@ -34,7 +34,7 @@ SQL Developer @ Techorc Software Solutions
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" alt="snowflake" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm" style="height: 49px; vertical-align: middle;">
   <img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/DBeaver.png" alt="DBeaver" style="height: 50px; vertical-align: middle;">
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" style="height: 50px; vertical-align: middle;">
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" style="height: 51px; vertical-align: middle;">
   <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/50/000000/git.png" alt="git" style="height: 50px; vertical-align: middle;">
