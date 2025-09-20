@@ -33,7 +33,7 @@ SQL Developer @ Techorc Software Solutions
   <img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/idF4fnHpaJ_logos.png" alt="databricks" style="height: 48px; vertical-align: middle;">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" alt="snowflake" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm" style="height: 49px; vertical-align: middle;">
-  <img src="https://www.logo.wine/a/logo/DBeaver/DBeaver-Logo.wine.svg" alt="DBeaver" style="height: 50px; vertical-align: middle;">
+  <img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/DBeaver.png" alt="DBeaver" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" style="height: 50px; vertical-align: middle;">
