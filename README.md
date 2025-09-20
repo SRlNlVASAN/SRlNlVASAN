@@ -33,6 +33,13 @@ SQL Developer @ Techorc Software Solutions
 ### IDEs & Tools I Use :
 <img height="50" width="50" src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/idF4fnHpaJ_logos.png"/> <img height="50" width="50" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" src="https://www.logo.wine/a/logo/DBeaver/DBeaver-Logo.wine.svg" /> <img height="50" width="50" src="https://img.icons8.com/fluency/48/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/jupyter.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://github.com/user-attachments/assets/bf44cb9b-ef1f-4738-8ab0-f34dd5941cb3" /> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
 
+###v3
+<div style="text-align: center;">
+  <img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/idF4fnHpaJ_logos.png" alt="Icon 1" style="height: 50px; vertical-align: middle;">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" alt="Icon 2" style="height: 50px; vertical-align: middle;">
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="Icon 3" style="height: 50px; vertical-align: middle;">
+</div>
+
 ### 💻 Workspace Spec :
 <img height="30" src="https://img.shields.io/badge/MSI-GL63_9RCX-ED1C24?style=for-the-badge&logo=msi&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX_1050ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Corei5_9300H-ED1C24?style=for-the-badge&logo=intel&logoColor=white"/> 
 
