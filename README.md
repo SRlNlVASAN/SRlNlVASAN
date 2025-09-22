@@ -39,7 +39,7 @@ SQL Developer @ Techorc Software Solutions
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/50/000000/git.png" alt="git" style="height: 50px; vertical-align: middle;">
   <img src="https://github.com/user-attachments/assets/bf44cb9b-ef1f-4738-8ab0-f34dd5941cb3" alt="github" style="height: 50px; vertical-align: middle;">
-  <img src="https://img.icons8.com/color/50/000000/git.png" alt="streamlit" style="height: 52px; vertical-align: middle;">
+  <img src="Resource/streamlit-logo-secondary-colormark-lighttext.png" alt="streamlit" style="height: 52px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/480/null/notion--v1.png" alt="notion" style="height: 50px; vertical-align: middle;">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="canva" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" alt="photoshop" style="height: 50px; vertical-align: middle;">
