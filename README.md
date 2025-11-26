@@ -1,8 +1,8 @@
 ## Hi there 👋 It's me Srinivasan
 
 SQL Developer @ Techorc Software Solutions
-src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">
-- 🔭 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)                                                 
+<img align="right" width="343" height="268" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">
+- 🔭 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)                                                  
 - 🌱 I'm currently focused on building scalable data pipelines & optimizing our existing data infrastructure for reporting. [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - 🏢 Engineeing at Techorc Software [<img src="https://www.techorc.in/images/logo.svg" height="24">](https://www.techorc.in/)
 - 🏢 Previously worked with AidasTech [<img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/aidas-logo-1.png" height="24">](https://www.aidastech.com/)
