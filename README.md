@@ -6,8 +6,8 @@ SQL Developer @ Techorc Software Solutions
 - 🌱 I'm currently focused on building scalable data pipelines & optimizing our existing data infrastructure for reporting. [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - 🏢 Engineeing at Techorc Software [<img src="https://www.techorc.in/images/logo.svg" height="24">](https://www.techorc.in/)
 - 🏢 Previously worked with AidasTech [<img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/aidas-logo-1.png" height="24">](https://www.aidastech.com/)
-- 📸 Fun fact : I ❤️ photography
-
+- 📸 Fun Fact >> I ❤️ photography & learning new 👨‍💻 tech
+- 
 > My Work Experiences: <br />
 - worked as a jr data engineer
 - worked as a sql developer
@@ -20,7 +20,7 @@ SQL Developer @ Techorc Software Solutions
 <div style="text-align: center;">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" style="height: 50px; vertical-align: middle;">
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" style="height: 51px; vertical-align: middle;">
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="sqlserver" style="height: 50px; vertical-align: middle;">
+  <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?resize=512%2C512&ssl=1" alt="sqlserver" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" style="height: 50px; vertical-align: middle;">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-sqlite-icon-svg-png-download-282687.png?f=webp&w=256" alt="sqlite" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" style="height: 50px; vertical-align: middle;">
@@ -31,6 +31,7 @@ SQL Developer @ Techorc Software Solutions
 ### IDEs & Tools I Use :
 <div style="text-align: center;">
   <img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/idF4fnHpaJ_logos.png" alt="databricks" style="height: 48px; vertical-align: middle;">
+  <img src="https://brandlogos.net/wp-content/uploads/2022/07/microsoft_azure-logo_brandlogos.net_mlyt6-512x512.png" alt="azure" style="height: 49px; vertical-align: middle;">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" alt="snowflake" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm" style="height: 49px; vertical-align: middle;">
   <img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/DBeaver.png" alt="DBeaver" style="height: 50px; vertical-align: middle;">
