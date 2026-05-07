@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Srinivasan-data%20engineer&textBg=false&animation=fadeIn&fontSize=0
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Srinivasan-data%20engineer&textBg=false&animation=fadeIn&fontSize=0" alt="test" style="height: 50px; vertical-align: middle;">
 
 ## Hi there 👋 It's me Srinivasan
 
