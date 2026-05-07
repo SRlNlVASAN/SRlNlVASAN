@@ -21,6 +21,7 @@ SQL Developer @ Techorc Software Solutions
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" style="height: 50px; vertical-align: middle;">
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" style="height: 51px; vertical-align: middle;">
   <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?resize=512%2C512&ssl=1" alt="sqlserver" style="height: 50px; vertical-align: middle;">
+  <img src="Resource/Postgresql_elephant.svg.png" alt="postgreSql" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" style="height: 50px; vertical-align: middle;">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-sqlite-icon-svg-png-download-282687.png?f=webp&w=256" alt="sqlite" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" style="height: 50px; vertical-align: middle;">
