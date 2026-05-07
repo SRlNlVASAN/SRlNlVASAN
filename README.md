@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=F1F5F9&text=Srinivasan-data%20engineer&textBg=false&animation=fadeIn&fontSize=0&fontColor=7F62F1&reversal=false" alt="test" style="height: 150px; vertical-align: middle;">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=F1F5F9&text=Srinivasan-data%20engineer&textBg=false&animation=fadeIn&fontSize=0&fontColor=7F62F1&reversal=false" alt="test" style="height: 90px; vertical-align: middle;">
 
 SQL Developer @ Techorc Software Solutions
 <img align="right" width="343" height="268" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">
