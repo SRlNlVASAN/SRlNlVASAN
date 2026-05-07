@@ -52,4 +52,4 @@ SQL Developer @ Techorc Software Solutions
 ![Srinivasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRlNlVASAN&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
-<img src="https://skillicons.dev/icons?i=aws,postgres,docker,py,html,css" alt="test" style="height: 50px; vertical-align: middle;">
+<img src="https://skillicons.dev/icons?i=python,mysql,ssms,postgresql,mongodb,sqlite,html,css,bootstrap" alt="test" style="height: 50px; vertical-align: middle;">
