@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=F3F0FF&text=Srinivasan%20DataEngineer&textBg=false&fontSize=50&fontColor=7F62F1&reversal=false" alt="test" style="height: 150px; vertical-align: middle;">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=F3F0FF&text=Srinivasan%20DataEngineer&textBg=false&fontSize=50&fontColor=7F62F1&reversal=false" alt="test" style="height: 250px; vertical-align: middle;">
 
 - 💼 Working @ Techorc Software Solutions
 
