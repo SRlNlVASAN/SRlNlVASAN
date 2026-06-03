@@ -1,9 +1,6 @@
 <div align="left">
-  <!-- Large Custom Badge for Name -->
-  <img src="https://img.shields.io/badge/Srinivasan-gradient?style=for-the-badge&logo=github&logoColor=white&color=ff0055" height="1005"> <p> 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 </p>
+  <img src="https://img.shields.io/badge/Srinivasan ~ 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧-gradient?style=for-the-badge&logo=github&logoColor=white&color=ff0055" height="50">
   <br><br>
-  <!-- Styled Subtitle -->
-  <p> 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 </p>
 </div>
 
 🎨 Stylized & Elegant
