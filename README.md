@@ -1,13 +1,8 @@
 <div align="left">
-  <img src="https://img.shields.io/badge/Srinivasan-gradient?style=for-the-badge&logo=github&logoColor=white&color=ff0055" height="50" style="vertical-align: middle;">
-  <span style="font-size: 24px; vertical-align: middle; margin-left: 10px;">𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫</span>
+  <img src="https://img.shields.io/badge/Srinivasan-gradient?style=for-the-badge&logo=desktop&logoColor=white&color=ff0055" height="50" style="vertical-align: middle;">
 </div>
 
-🎨 Stylized & Elegant
-Serif Bold: 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫
-
-
-Working @ Techorc Software Solutions 💼
+𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 @ Techorc Software Solutions 💼
 <img align="right" width="343" height="268" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">
 - 🔭 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)                                                  
 - 🌱 I'm currently focused on building scalable data pipelines & optimizing our existing data infrastructure for reporting. [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
