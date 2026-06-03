@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://img.shields.io/badge/Srinivasan-gradient?style=for-the-badge&logo=desktop&logoColor=white&color=ff0055" height="50" style="vertical-align: middle;">
+  <img src="https://img.shields.io/badge/💻%20Srinivasan-gradient?style=for-the-badge&color=ff0055" height="50" style="vertical-align: middle;">
 </div>
 
 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 @ Techorc Software Solutions 💼
@@ -9,7 +9,7 @@
 - 🏢 Engineeing at Techorc Software [<img src="https://www.techorc.in/images/logo.svg" height="24">](https://www.techorc.in/)
 - 🏢 Previously worked with AidasTech [<img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/aidas-logo-1.png" height="24">](https://www.aidastech.com/)
 - 📸 Fun Fact >> I ❤️ photography & learning new 👨‍💻 tech
-- 
+
 > My Work Experiences: <br />
 - worked as a jr data engineer
 - worked as a sql developer
