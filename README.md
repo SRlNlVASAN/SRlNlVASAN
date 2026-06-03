@@ -1,6 +1,88 @@
-<div align="left">
-  <img src="https://img.shields.io/badge/💻%20Srinivasan-gradient?style=for-the-badge&color=ff0055" height="50" style="vertical-align: middle;">
-</div>
+Here are 12 different design variations using `capsule-render`. I have provided them in raw Markdown format so you can copy the entire block, paste it directly into your GitHub README editor, and see how they look live side-by-side before picking your favorite!
+
+### 🌊 1. Clean Waving (Ocean Gradient)
+
+```markdown
+![Srinivasan](https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:3a6073&height=200&section=header&text=Srinivasan&fontSize=80)
+
+```
+
+### ⚡ 2. Slice (Cyberpunk Neon)
+
+```markdown
+![Srinivasan](https://capsule-render.vercel.app/api?type=slice&color=0:f857a6,100:ff5858&height=200&section=header&text=Srinivasan&fontSize=80)
+
+```
+
+### 🍳 3. Egg / Fluid Shape (Deep Maroon Premium)
+
+```markdown
+![Srinivasan](https://capsule-render.vercel.app/api?type=egg&color=0:330000,100:b7002e&height=200&section=header&text=Srinivasan&fontSize=80)
+
+```
+
+### 🧸 4. Soft Rounded (Pastel Matte)
+
+```markdown
+![Srinivasan](https://capsule-render.vercel.app/api?type=soft&color=0:7F00FF,100:E100FF&height=200&section=header&text=Srinivasan&fontSize=80)
+
+```
+
+### 🏙️ 5. Transparent Header (Minimalist & Sleek)
+
+```markdown
+![Srinivasan](https://capsule-render.vercel.app/api?type=transparent&color=0:111111,100:434343&height=180&section=header&text=Srinivasan&fontSize=85&fontAlignY=45)
+
+```
+
+### 🦈 6. Shark Fin (Dark High-Tech)
+
+```markdown
+![Srinivasan](https://capsule-render.vercel.app/api?type=shark&color=0:141e30,100:243b55&height=200&section=header&text=Srinivasan&fontSize=80)
+
+```
+
+### 🌄 7. Rounded Slice (Sunset Glow)
+
+```markdown
+![Srinivasan](https://capsule-render.vercel.app/api?type=slice&color=0:e65c00,100:F9D423&height=200&section=header&text=Srinivasan&fontSize=80)
+
+```
+
+### 🔮 8. Waving Glow (Deep Purple Matrix)
+
+```markdown
+![Srinivasan](https://capsule-render.vercel.app/api?type=waving&color=0:130CB7,100:52E5E7&height=200&section=header&text=Srinivasan&fontSize=80)
+
+```
+
+### 🍃 9. Soft Shape (Emerald Tech)
+
+```markdown
+![Srinivasan](https://capsule-render.vercel.app/api?type=soft&color=0:11998e,100:38ef7d&height=200&section=header&text=Srinivasan&fontSize=80)
+
+```
+
+### 🕶️ 10. Rect / Solid (Stealth Carbon Matte)
+
+```markdown
+![Srinivasan](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Srinivasan&fontSize=75&fontAlignY=50)
+
+```
+
+### 🎨 11. Custom Font Hack (Using Descending Font Size)
+
+```markdown
+![Srinivasan](https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,100:7A00FF&height=200&section=header&text=Srinivasan&fontSize=90&fontStyle=oblique)
+
+```
+
+### 🚀 12. Animated Text Effect (Sleek Masking)
+
+```markdown
+![Srinivasan](https://capsule-render.vercel.app/api?type=slice&color=0:00c6ff,100:0072ff&height=200&section=header&text=Srinivasan&fontSize=80&animation=fadeIn)
+
+```
 
 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 @ Techorc Software Solutions 💼
 <img align="right" width="343" height="268" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">
