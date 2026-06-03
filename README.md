@@ -3,18 +3,13 @@
 
 ![](https://img.shields.io/badge/Srinivasan-gradient?style=for-the-badge&logo=github&logoColor=white&color=ff0055)
 
-𝒢𝒶𝓉𝒶 ℰ𝓃ℊ𝒾𝓃ℊℯ𝓇
+🅳🅰🆃🅰 🅴🅽🅶🅸🅽🅴🅴🆁
 
-🅳🅰🆃🅰 🅴🅽🅲🅸🅽🅴🅴🆁
+𝙳𝚊𝚝𝚊 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛
 
-𝒮𝓇𝒾𝓃𝒾𝓋𝒶𝓈𝒶𝓃
+𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧
 
-🆂🆁🅸🅽🅸🆅🅰🆂🅰🅽
-
-<div align="center">
-  <h1> 𝕊𝕣𝕚𝕟𝕚𝕧𝕒𝕤𝕒𝕟 </h1>
-  <p> 🅳🅰🆃🅰 🅴🅽🅲🅸🅽🅴🅴🆁 </p>
-</div>
+𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫
 
 Working @ Techorc Software Solutions 💼
 <img align="right" width="343" height="268" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">
