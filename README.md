@@ -1,29 +1,14 @@
-<img src="https://img.shields.io/badge/Srinivasan-gradient?style=for-the-badge&logo=github&logoColor=white&color=ff0055" height="40">
-
-🌟 Clean & Modern
-Sans-Serif Bold: 𝝪𝝾𝞃𝝾 𝝜𝞓𝝾𝝿𝝼𝝼𝞂
-
-Sans-Serif Italic: 𝘚𝘢𝘵𝘢 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳
+<div align="center">
+  <img src="https://img.shields.io/badge/Srinivasan-gradient?style=for-the-badge&logo=github&logoColor=white&color=ff0055" height="50">
+</div>
+  
 
 Sans-Serif Bold Italic: 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧
-
-Monospace / Typewriter: 𝙳𝚊𝚝𝚊 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛
 
 🎨 Stylized & Elegant
 Serif Bold: 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫
 
-Serif Italic: 𝒪𝒶𝓉𝒶 ℰ𝓃ℊ𝒾𝓃ℯℯ𝓇
-
 Serif Bold Italic: 𝑱𝒂𝒕𝒂 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓
-
-Double-Struck (Blackboard): 𝔻𝕒𝕥𝕒 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣
-
-🕹️ Bold Blocks & Tech Vibes
-Negative Squared: 🅳🅰🆃🅰 🅴🅽🅶🅸🅽🅴🅴🆁
-
-Bubbles / Circled: Ⓓⓐⓣⓐ Ⓔⓝⓖⓘⓝⓔⓔⓡ
-
-Negative Circled: 🅓🅐🅣🅐 🅔🅝🅖🅘🅝🅔🅔🅡
 
 Working @ Techorc Software Solutions 💼
 <img align="right" width="343" height="268" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">
