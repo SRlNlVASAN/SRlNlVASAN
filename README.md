@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
   <!-- Large Custom Badge for Name -->
-  <img src="https://img.shields.io/badge/Srinivasan-gradient?style=for-the-badge&logo=github&logoColor=white&color=ff0055" height="45">
+  <img src="https://img.shields.io/badge/Srinivasan-gradient?style=for-the-badge&logo=github&logoColor=white&color=ff0055" height="95">
   <br><br>
   <!-- Styled Subtitle -->
   <p> 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 </p>
@@ -9,7 +9,6 @@
 🎨 Stylized & Elegant
 Serif Bold: 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫
 
-Serif Bold Italic: D𝒂𝒕𝒂 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓
 
 Working @ Techorc Software Solutions 💼
 <img align="right" width="343" height="268" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">
