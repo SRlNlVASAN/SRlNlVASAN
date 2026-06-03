@@ -1,10 +1,6 @@
-- 🔭 Here's my <a href="https://www.linkedin.com/in/srinivasan4610/" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=100&text=🔭%Linkedin&fontSize=120&fontAlignY=50" width="250">
+> Here's my <a href="https://www.linkedin.com/in/srinivasan4610/" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=80&text=🔭%Linkedin&fontSize=90&fontAlignY=50" width="150">
 </a>
-
-<div align="left">
-  <span style="font-size: 22px; vertical-align: middle; margin-right: 12px;">Here's my Linkedin</span>[<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=100&text=Linkedin&fontSize=120&fontAlignY=50&logo=linkedin&logoColor=white" width="250" style="vertical-align: middle; display: inline-block;">](https://www.linkedin.com/in/srinivasan4610/)
-</div>
 
 Data Engineer @ Techorc Software Solutions 💼
 <img align="right" width="343" height="268" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">
