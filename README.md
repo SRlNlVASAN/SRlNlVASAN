@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=120&text=𝐒𝐫𝐢𝐧𝐢𝐯𝐚𝐬𝐚𝐧&fontSize=100&fontAlignY=50" width="250">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=120&text=𝗦𝗿𝗶𝗻𝗶𝘃𝗮𝘀𝗮𝗻&fontSize=100&fontAlignY=50" width="250">
 
-𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 @ Techorc Software Solutions 💼
+Data Engineer @ Techorc Software Solutions 💼
 <img align="right" width="343" height="268" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">
 - 🔭 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)                                                  
 - 🌱 I'm currently focused on building scalable data pipelines & optimizing our existing data infrastructure for reporting. [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
