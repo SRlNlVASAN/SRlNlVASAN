@@ -1,4 +1,4 @@
-> Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)   🗁
+🗁 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)   
 
 Data Engineer @ Techorc Software Solutions 💼
 <img align="right" width="343" height="268" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">                                             
