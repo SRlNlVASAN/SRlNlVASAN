@@ -1,6 +1,6 @@
 <div align="left">
-  <img src="https://img.shields.io/badge/Srinivasan ~ 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧-gradient?style=for-the-badge&logo=github&logoColor=white&color=ff0055" height="50">
-  <br><br>
+  <img src="https://img.shields.io/badge/Srinivasan-gradient?style=for-the-badge&logo=github&logoColor=white&color=ff0055" height="50" style="vertical-align: middle;">
+  <span style="font-size: 24px; vertical-align: middle; margin-left: 10px;">𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫</span>
 </div>
 
 🎨 Stylized & Elegant
