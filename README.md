@@ -1,5 +1,21 @@
 ![Srinivasan](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Srinivasan&fontSize=90)
 
+* **Individual key style:**
+  ```html
+  # <kbd>S</kbd><kbd>r</kbd><kbd>i</kbd><kbd>n</kbd><kbd>i</kbd><kbd>v</kbd><kbd>a</kbd><kbd>s</kbd><kbd>a</kbd><kbd>n</kbd>
+
+𝖲𝗋𝗂𝗇𝗂𝗏𝖺𝗌𝖺𝗇 (Sans-Serif Clean)
+
+𝙎𝙧𝙞𝙣𝙞𝙫𝙖𝙨𝙖𝙣 (Sans-Serif Bold Italic)
+
+𝒮𝓇𝒾𝓃𝒾𝓋𝒶𝓈𝒶𝓃 (Script / Cursive)
+
+𝕊𝕣𝕚𝕟𝕚𝕧𝕒𝕤𝕒𝕟 (Double Struck / Blackboard)
+
+🆂🆁🅸🅽🅸🆅🅰🆂🅰🅽 (Negative Squared)
+
+![](https://img.shields.io/badge/Srinivasan-gradient?style=for-the-badge&logo=github&logoColor=white&color=ff0055)
+
 Working @ Techorc Software Solutions 💼
 <img align="right" width="343" height="268" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">
 - 🔭 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)                                                  
