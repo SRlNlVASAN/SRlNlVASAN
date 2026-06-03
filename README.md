@@ -1,4 +1,4 @@
-Srinivasan
+![Srinivasan](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Srinivasan&fontSize=90)
 
 Working @ Techorc Software Solutions 💼
 <img align="right" width="343" height="268" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">
@@ -41,6 +41,7 @@ Working @ Techorc Software Solutions 💼
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/50/000000/git.png" alt="git" style="height: 50px; vertical-align: middle;">
   <img src="https://github.com/user-attachments/assets/bf44cb9b-ef1f-4738-8ab0-f34dd5941cb3" alt="github" style="height: 50px; vertical-align: middle;">
+  <img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/pngwing.com.png" alt="postman" style="height: 50px; vertical-align: middle;">
   <img src="Resource/streamlit-logo-secondary-colormark-lighttext.png" alt="streamlit" style="height: 52px; vertical-align: middle;">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="canva" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" alt="photoshop" style="height: 50px; vertical-align: middle;">
