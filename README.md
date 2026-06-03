@@ -1,11 +1,4 @@
-<a href="https://www.linkedin.com/in/srinivasan4610/" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=120&text=🔭%20Linkedin&fontSize=100&fontAlignY=50" width="250">
-</a>
-
-<div align="left">
-  <span>🔭 Here's my [Linkedin]</span> 
-  [<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=45&text=Connect&fontSize=25&fontAlignY=50" width="130" style="vertical-align: middle; display: inline-block;">](https://www.linkedin.com/in/srinivasan4610/)
-</div>
+- 🔭 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)  
 
 Data Engineer @ Techorc Software Solutions 💼
 <img align="right" width="343" height="268" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">
