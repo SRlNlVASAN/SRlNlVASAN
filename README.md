@@ -3,15 +3,8 @@
 </a>
 
 <div align="left">
-  <!-- Your exact text phrase -->
-  <span style="font-size: 18px; vertical-align: middle; margin-right: 10px;">
-    🔭 Here's my [Linkedin]
-  </span>
-
-  <!-- Clickable purple rectangle badge -->
-  <a href="https://www.linkedin.com/in/srinivasan4610/" target="_blank" style="vertical-align: middle;">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=45&text=Connect&fontSize=25&fontAlignY=50" width="130" style="vertical-align: middle;">
-  </a>
+  <span>🔭 Here's my [Linkedin]</span> 
+  [<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=45&text=Connect&fontSize=25&fontAlignY=50" width="130" style="vertical-align: middle; display: inline-block;">](https://www.linkedin.com/in/srinivasan4610/)
 </div>
 
 Data Engineer @ Techorc Software Solutions 💼
