@@ -1,10 +1,10 @@
 ![Srinivasan](https://capsule-render.vercel.app/api?type=soft&color=0:7F00FF,100:E100FF&height=50&section=header&text=Srinivasan&fontSize=40)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=55&text=Srinivasan&fontSize=35&fontAlignY=50" width="200">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=55&text=Srinivasan&fontSize=3500&fontAlignY=50" width="200">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F00FF,100:E100FF&height=55&text=Srinivasan&fontSize=32&fontAlignY=46" width="200">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F00FF,100:E100FF&height=55&text=Srinivasan&fontSize=3200&fontAlignY=46" width="200">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=55&text=💻%20Srinivasan&fontSize=32&fontAlignY=50" width="230">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=55&text=💻%20Srinivasan&fontSize=3200&fontAlignY=50" width="230">
 
 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 @ Techorc Software Solutions 💼
 <img align="right" width="343" height="268" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">
