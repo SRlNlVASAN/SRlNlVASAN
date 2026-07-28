@@ -1,4 +1,5 @@
-🗁 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)   
+🗁<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8efe7d54-b9c1-4fc6-9fd8-c34e09555c04" />
+ Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)   
 
 Data Engineer @ Techorc Software Solutions 💼
 <img align="right" width="323" height="248" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">                                             
@@ -18,7 +19,7 @@ Data Engineer @ Techorc Software Solutions 💼
 
 <div style="text-align: center;">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" style="height: 50px; vertical-align: middle;">
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" style="height: 51px; vertical-align: middle;">
+  <img src="Resource/mysqlLogo.png" alt="mysql" style="height: 51px; vertical-align: middle;">
   <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?resize=512%2C512&ssl=1" alt="sqlserver" style="height: 50px; vertical-align: middle;">
   <img src="Resource/Postgresql_elephant.svg.png" alt="postgreSql" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" style="height: 50px; vertical-align: middle;">
@@ -35,7 +36,7 @@ Data Engineer @ Techorc Software Solutions 💼
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" alt="snowflake" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm" style="height: 49px; vertical-align: middle;">
   <img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/DBeaver.png" alt="DBeaver" style="height: 50px; vertical-align: middle;">
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" style="height: 51px; vertical-align: middle;">
+  <img src="Resource/mysqlLogo.png" alt="mysql" style="height: 51px; vertical-align: middle;">
   <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/50/000000/git.png" alt="git" style="height: 50px; vertical-align: middle;">
@@ -51,5 +52,4 @@ Data Engineer @ Techorc Software Solutions 💼
 
 <img src="https://skillicons.dev/icons?i=dataengineering" alt="test" style="height: 50px; vertical-align: middle;">
 
-
-https://github-stats-extended.vercel.app/api/pin?username=SRlNlVASAN&repo=SpotifyAzureProject%2FSpotifyAzureProject&description_lines_count=2&theme=default
+aaa
