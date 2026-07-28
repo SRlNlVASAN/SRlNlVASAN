@@ -50,3 +50,5 @@ Data Engineer @ Techorc Software Solutions 💼
 <img height="30" src="https://img.shields.io/badge/MSI-GL63_9RCX-ED1C24?style=for-the-badge&logo=msi&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX_1050ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Corei5_9300H-ED1C24?style=for-the-badge&logo=intel&logoColor=white"/> 
 
 <img src="https://skillicons.dev/icons?i=dataengineering" alt="test" style="height: 50px; vertical-align: middle;">
+
+[![Srini's GitHub stats](https://github-stats-extended.vercel.app/api?username=SRlNlVASAN)](https://github.com/stats-organization/github-stats-extended)
