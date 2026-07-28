@@ -53,4 +53,4 @@ Data Engineer @ Techorc Software Solutions 💼
 
 [![Srini's GitHub stats](https://github-stats-extended.vercel.app/api?username=SRlNlVASAN)](https://github.com/stats-organization/github-stats-extended)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SRlNlVASAN&repo=SpotifyAzureProject%2Fgithub-readme-stats&description_lines_count=2&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SRlNlVASAN&repo=SpotifyAzureProject%2Fgithub-readme-stats&description_lines_count=2&theme=default)](https://github.com/SRlNlVASAN/SpotifyAzureProject)
