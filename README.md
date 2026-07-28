@@ -3,7 +3,7 @@
 Data Engineer @ Techorc Software Solutions 💼 
 <img align="right" width="323" height="248" alt="image" src="https://github.com/user-attachments/assets/8efe7d54-b9c1-4fc6-9fd8-c34e09555c04" />
 - 🌱 I'm currently focused on building scalable data pipelines & optimizing our existing data infrastructure for reporting. [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
-- 🏢 Engineeing at Techorc Software [<img src="https://www.techorc.in/images/logo.svg" height="24">](https://www.techorc.in/)
+- 🏢 Engineeing at Techorc Software [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR26Q1aBhbVhajJ_LfLIRsun8x7HzGu1JCLQt1ElPVifFgjYY872ro2A_5Z&s=10" height="24">](https://www.techorc.in/)
 - 🏢 Previously worked with AidasTech [<img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/aidas-logo-1.png" height="24">](https://www.aidastech.com/)
 - 📸 Fun Fact >> I ❤️ photography & learning new 👨‍💻 tech
 
@@ -22,7 +22,7 @@ Data Engineer @ Techorc Software Solutions 💼
   <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?resize=512%2C512&ssl=1" alt="sqlserver" style="height: 50px; vertical-align: middle;">
   <img src="Resource/Postgresql_elephant.svg.png" alt="postgreSql" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" style="height: 50px; vertical-align: middle;">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-sqlite-icon-svg-png-download-282687.png?f=webp&w=256" alt="sqlite" style="height: 50px; vertical-align: middle;">
+  <img src="https://p7.hiclipart.com/preview/759/621/115/sqlite-database-android-computer-software-application-software-android.jpg" alt="sqlite" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" style="height: 50px; vertical-align: middle;">
