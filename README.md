@@ -22,7 +22,7 @@ Data Engineer @ Techorc Software Solutions 💼
   <img src="https://camo.githubusercontent.com/32dd46119aafc7a2705fc720c428b7eb0b9633a8d5433d5b60207636f4f808f5/68747470733a2f2f6477676c6f676f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f53514c6974655f566563746f725f6c6f676f2e706e67" alt="sqlserver" style="height: 50px; vertical-align: middle;">
   <img src="Resource/Postgresql_elephant.svg.png" alt="postgreSql" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" style="height: 50px; vertical-align: middle;">
-  <img src="https://p7.hiclipart.com/preview/508/195/802/sqlite-relational-database-management-system-redis-square-icon-thumbnail.jpg" alt="sqlite" style="height: 50px; vertical-align: middle;">
+  <img src="Resource/sqllite.png" alt="sqlite" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" style="height: 50px; vertical-align: middle;">
