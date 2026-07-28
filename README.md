@@ -1,7 +1,7 @@
 🗁 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)   
 
 Data Engineer @ Techorc Software Solutions 💼
-<img align="right" width="323" height="248" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">                                          
+<img align="right" width="323" height="248" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRkMjl6aWJqcW5uZW1pMWZyN2llaXU2dDV4c3Q0Mmw2aW9qdDg3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif">                                          
 - 🌱 I'm currently focused on building scalable data pipelines & optimizing our existing data infrastructure for reporting. [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - 🏢 Engineeing at Techorc Software [<img src="https://www.techorc.in/images/logo.svg" height="24">](https://www.techorc.in/)
 - 🏢 Previously worked with AidasTech [<img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/aidas-logo-1.png" height="24">](https://www.aidastech.com/)
@@ -19,7 +19,7 @@ Data Engineer @ Techorc Software Solutions 💼
 <div style="text-align: center;">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" style="height: 50px; vertical-align: middle;">
   <img src="Resource/mysqlLogo.png" alt="mysql" style="height: 51px; vertical-align: middle;">
-  <img src="https://camo.githubusercontent.com/32dd46119aafc7a2705fc720c428b7eb0b9633a8d5433d5b60207636f4f808f5/68747470733a2f2f6477676c6f676f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f53514c6974655f566563746f725f6c6f676f2e706e67" alt="sqlserver" style="height: 50px; vertical-align: middle;">
+  <img src="https://silentinstallhq.com/wp-content/uploads/2025/03/SQLServerManagementStudio21.png" alt="sqlserver" style="height: 50px; vertical-align: middle;">
   <img src="Resource/Postgresql_elephant.svg.png" alt="postgreSql" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" style="height: 50px; vertical-align: middle;">
   <img src="Resource/sqllite.png" alt="sqlite" style="height: 50px; vertical-align: middle;">
