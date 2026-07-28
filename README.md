@@ -2,6 +2,8 @@
 
 Data Engineer @ Techorc Software Solutions 💼 
 <img align="right" width="323" height="248" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdxeHNud25haWQxa3ozOWRsaHcwc3owajR0dmR0OWdmbnFoaGR6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif"/>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdxeHNud25haWQxa3ozOWRsaHcwc3owajR0dmR0OWdmbnFoaGR6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif" alt="gif" style="height: 50px; vertical-align: right;">
 - 🌱 I'm currently focused on building scalable data pipelines & optimizing our existing data infrastructure for reporting. [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - 🏢 Engineeing at Techorc Software [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR26Q1aBhbVhajJ_LfLIRsun8x7HzGu1JCLQt1ElPVifFgjYY872ro2A_5Z&s=10" height="24">](https://www.techorc.in/)
 - 🏢 Previously worked with AidasTech [<img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/aidas-logo-1.png" height="24">](https://www.aidastech.com/)
