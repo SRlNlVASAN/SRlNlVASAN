@@ -1,56 +1,57 @@
-🗁 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)
+<div align="center">
 
-Data Engineer @ Techorc Software Solutions 💼 
-<img align="right" width="323" height="248" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdxeHNud25haWQxa3ozOWRsaHcwc3owajR0dmR0OWdmbnFoaGR6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif"/>
+# Hi 👋, I'm Srinivasan
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdxeHNud25haWQxa3ozOWRsaHcwc3owajR0dmR0OWdmbnFoaGR6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif" alt="gif" style="height: 50px; vertical-align: right;">
-- 🌱 I'm currently focused on building scalable data pipelines & optimizing our existing data infrastructure for reporting. [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
-- 🏢 Engineeing at Techorc Software [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR26Q1aBhbVhajJ_LfLIRsun8x7HzGu1JCLQt1ElPVifFgjYY872ro2A_5Z&s=10" height="24">](https://www.techorc.in/)
-- 🏢 Previously worked with AidasTech [<img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/aidas-logo-1.png" height="24">](https://www.aidastech.com/)
-- 📸 Fun Fact >> I ❤️ photography & learning new 👨‍💻 tech
+**Data Engineer** @ Techorc Software Solutions
 
-> My Work Experiences: <br />
-- worked as a jr data engineer
-- worked as a sql developer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivasan4610/)
 
-> *Social Media Handles* <br />
-> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/srinivasan4610/) <br/>
+</div>
+
 ---
-### I Code In :
 
-<div style="text-align: center;">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" style="height: 50px; vertical-align: middle;">
-  <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="mysql" style="height: 51px; vertical-align: middle;">
-  <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?resize=512%2C512&ssl=1" alt="sqlserver" style="height: 50px; vertical-align: middle;">
-  <img src="Resource/Postgresql_elephant.svg.png" alt="postgreSql" style="height: 50px; vertical-align: middle;">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" style="height: 50px; vertical-align: middle;">
-  <img src="https://icons.veryicon.com/png/o/file-type/file-type-icon-library/sqlite.png" alt="sqlite" style="height: 50px; vertical-align: middle;">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" style="height: 50px; vertical-align: middle;">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" style="height: 50px; vertical-align: middle;">
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" style="height: 50px; vertical-align: middle;">
+### 🌱 About Me
+
+- Building scalable data pipelines and optimizing our data infrastructure for reporting
+- 🏢 Currently @ [Techorc Software Solutions](https://www.techorc.in/)
+- 🏢 Previously @ [AidasTech](https://www.aidastech.com/)
+- 📸 Fun fact — I ❤️ photography and learning new tech
+
+### 💼 Work Experience
+
+- Jr. Data Engineer
+- SQL Developer
+
+---
+
+### 🛠️ Languages & Databases
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,mongodb,html,css,bootstrap" />
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 🧰 IDEs & Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,pycharm,postman,jupyter,azure" />
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+
+### 💻 Workspace Spec
+
+![MSI](https://img.shields.io/badge/MSI-GL63_9RCX-ED1C24?style=for-the-badge&logo=msi&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-GTX_1050ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel-Corei5_9300H-ED1C24?style=for-the-badge&logo=intel&logoColor=white)
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRlNlVASAN&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SRlNlVASAN&hide_border=true)
+
 </div>
-
-### IDEs & Tools I Use :
-<div style="text-align: center;">
-  <img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/idF4fnHpaJ_logos.png" alt="databricks" style="height: 48px; vertical-align: middle;">
-  <img src="https://brandlogos.net/wp-content/uploads/2022/07/microsoft_azure-logo_brandlogos.net_mlyt6-512x512.png" alt="azure" style="height: 49px; vertical-align: middle;">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" alt="snowflake" style="height: 50px; vertical-align: middle;">
-  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm" style="height: 49px; vertical-align: middle;">
-  <img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/DBeaver.png" alt="DBeaver" style="height: 50px; vertical-align: middle;">
-  <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="mysql" style="height: 51px; vertical-align: middle;">
-  <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter" style="height: 50px; vertical-align: middle;">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" style="height: 50px; vertical-align: middle;">
-  <img src="https://img.icons8.com/color/50/000000/git.png" alt="git" style="height: 50px; vertical-align: middle;">
-  <img src="https://github.com/user-attachments/assets/bf44cb9b-ef1f-4738-8ab0-f34dd5941cb3" alt="github" style="height: 50px; vertical-align: middle;">
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" style="height: 50px; vertical-align: middle;">
-  <img src="Resource/streamlit-logo-secondary-colormark-lighttext.png" alt="streamlit" style="height: 52px; vertical-align: middle;">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="canva" style="height: 50px; vertical-align: middle;">
-  <img src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" alt="photoshop" style="height: 50px; vertical-align: middle;">
-</div>
-
-### 💻 Workspace Spec :
-<img height="30" src="https://img.shields.io/badge/MSI-GL63_9RCX-ED1C24?style=for-the-badge&logo=msi&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX_1050ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Corei5_9300H-ED1C24?style=for-the-badge&logo=intel&logoColor=white"/> 
-
-<img src="https://skillicons.dev/icons?i=dataengineering" alt="test" style="height: 50px; vertical-align: middle;">
-
-aaa
