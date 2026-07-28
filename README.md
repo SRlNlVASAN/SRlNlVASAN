@@ -1,5 +1,7 @@
 🗁 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)   
 
+🌐 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)   
+
 Data Engineer @ Techorc Software Solutions 💼 
 <img align="right" width="323" height="248" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdxeHNud25haWQxa3ozOWRsaHcwc3owajR0dmR0OWdmbnFoaGR6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif"/>
 - 🌱 I'm currently focused on building scalable data pipelines & optimizing our existing data infrastructure for reporting. [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
@@ -22,7 +24,7 @@ Data Engineer @ Techorc Software Solutions 💼
   <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?resize=512%2C512&ssl=1" alt="sqlserver" style="height: 50px; vertical-align: middle;">
   <img src="Resource/Postgresql_elephant.svg.png" alt="postgreSql" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" style="height: 50px; vertical-align: middle;">
-  <img src="https://p7.hiclipart.com/preview/759/621/115/sqlite-database-android-computer-software-application-software-android.jpg" alt="sqlite" style="height: 50px; vertical-align: middle;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA8gswE2IU3bMYg4unWVahGJ8rbzNzZNaG90ygTDkoK5lH139MJMRguc1v&s=10" alt="sqlite" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" style="height: 50px; vertical-align: middle;">
