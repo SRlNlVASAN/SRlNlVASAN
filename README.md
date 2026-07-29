@@ -1,6 +1,10 @@
-🗁 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)   
+🗁 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)
 
-🧾 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)   
+⌲ Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)
+🗁 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)
+☞ Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)
+❒ Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)
+➮ Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)
 
 Data Engineer @ Techorc Software Solutions 💼
 <img align="right" width="323" height="248" src="Resource/data.gif">                                       
