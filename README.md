@@ -22,7 +22,7 @@ Data Engineer @ Techorc Software Solutions 💼
   <img src="https://silentinstallhq.com/wp-content/uploads/2025/03/SQLServerManagementStudio21.png" alt="sqlserver" style="height: 50px; vertical-align: middle;">
   <img src="Resource/Postgresql_elephant.svg.png" alt="postgreSql" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" style="height: 50px; vertical-align: middle;">
-  <img src="Resource/sqllitenew.png" alt="sqlite" style="height: 50px; vertical-align: middle;">
+  <img src="Resource/sqlitenewfinal.png" alt="sqlite" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" style="height: 50px; vertical-align: middle;">
