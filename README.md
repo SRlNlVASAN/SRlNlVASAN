@@ -1,7 +1,7 @@
 🗁 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)   
 
 Data Engineer @ Techorc Software Solutions 💼
-<img align="right" width="323" height="248" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWphOGgzYXpna3dtZHE4NG8yZXR3azJkcmRxZ3RrejQ5czFsbGpibyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif">                                       
+<img align="right" width="323" height="248" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWg3M2d4c3lieTZ6c2p5emVsNGF6ZGJjNDQ0M2lqMHB4dGFudDZhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYc2axjCJNsCXyE/giphy.gif">                                       
 - 🌱 I'm currently focused on building scalable data pipelines & optimizing our existing data infrastructure for reporting. [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - 🏢 Engineeing at Techorc Software [<img src="https://www.techorc.in/images/logo.svg" height="24">](https://www.techorc.in/)
 - 🏢 Previously worked with AidasTech [<img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/aidas-logo-1.png" height="24">](https://www.aidastech.com/)
@@ -18,7 +18,7 @@ Data Engineer @ Techorc Software Solutions 💼
 
 <div style="text-align: center;">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" style="height: 50px; vertical-align: middle;">
-  <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" alt="mysql" style="height: 51px; vertical-align: middle;">
+  <img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" alt="mysql" style="height: 51px; vertical-align: middle;">
   <img src="https://silentinstallhq.com/wp-content/uploads/2025/03/SQLServerManagementStudio21.png" alt="sqlserver" style="height: 50px; vertical-align: middle;">
   <img src="Resource/Postgresql_elephant.svg.png" alt="postgreSql" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" style="height: 50px; vertical-align: middle;">
@@ -35,7 +35,7 @@ Data Engineer @ Techorc Software Solutions 💼
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" alt="snowflake" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm" style="height: 49px; vertical-align: middle;">
   <img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/DBeaver.png" alt="DBeaver" style="height: 50px; vertical-align: middle;">
-  <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" alt="mysql" style="height: 51px; vertical-align: middle;">
+  <img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" alt="mysql" style="height: 51px; vertical-align: middle;">
   <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/50/000000/git.png" alt="git" style="height: 50px; vertical-align: middle;">
