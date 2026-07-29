@@ -18,7 +18,7 @@ Data Engineer @ Techorc Software Solutions 💼
 
 <div style="text-align: center;">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" style="height: 50px; vertical-align: middle;">
-  <img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" alt="mysql" style="height: 51px; vertical-align: middle;">
+  <img src="Resource/mysqlLogo.png" alt="mysql" style="height: 51px; vertical-align: middle;">
   <img src="https://silentinstallhq.com/wp-content/uploads/2025/03/SQLServerManagementStudio21.png" alt="sqlserver" style="height: 50px; vertical-align: middle;">
   <img src="Resource/Postgresql_elephant.svg.png" alt="postgreSql" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" style="height: 50px; vertical-align: middle;">
@@ -35,7 +35,7 @@ Data Engineer @ Techorc Software Solutions 💼
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" alt="snowflake" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm" style="height: 49px; vertical-align: middle;">
   <img src="https://github.com/SRlNlVASAN/SRlNlVASAN/blob/main/Resource/DBeaver.png" alt="DBeaver" style="height: 50px; vertical-align: middle;">
-  <img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" alt="mysql" style="height: 51px; vertical-align: middle;">
+  <img src="Resource/mysqlLogo.png" alt="mysql" style="height: 51px; vertical-align: middle;">
   <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" style="height: 50px; vertical-align: middle;">
   <img src="https://img.icons8.com/color/50/000000/git.png" alt="git" style="height: 50px; vertical-align: middle;">
@@ -50,3 +50,10 @@ Data Engineer @ Techorc Software Solutions 💼
 <img height="30" src="https://img.shields.io/badge/MSI-GL63_9RCX-ED1C24?style=for-the-badge&logo=msi&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX_1050ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Corei5_9300H-ED1C24?style=for-the-badge&logo=intel&logoColor=white"/> 
 
 <img src="https://skillicons.dev/icons?i=dataengineering" alt="test" style="height: 50px; vertical-align: middle;">
+
+### 🏅 Certifications & Badges
+
+<div style="text-align: center;">
+  <img src="YOUR_SNOWFLAKE_BADGE_IMAGE_URL_HERE" alt="Snowflake Badge" style="height: 120px; margin: 10px;">
+  <img src="YOUR_DATABRICKS_BADGE_IMAGE_URL_HERE" alt="Databricks Badge" style="height: 120px; margin: 10px;">
+</div>
