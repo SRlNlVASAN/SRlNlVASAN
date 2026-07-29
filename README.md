@@ -1,6 +1,4 @@
-🗁 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)
-
-<img align="left" width="100" height="100" src="https://e7.pngegg.com/pngimages/524/809/png-clipart-computer-icons-resume-linkedin-logo-job-hunting-others-blue-angle-thumbnail.png">  
+🗁 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/) 🔗
 
 Data Engineer @ Techorc Software Solutions 💼
 <img align="right" width="323" height="248" src="Resource/data.gif">                                       
