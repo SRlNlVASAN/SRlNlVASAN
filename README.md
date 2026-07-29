@@ -1,5 +1,7 @@
 🗁 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)   
 
+🧾 Here's my [Linkedin](https://www.linkedin.com/in/srinivasan4610/)   
+
 Data Engineer @ Techorc Software Solutions 💼
 <img align="right" width="323" height="248" src="Resource/data.gif">                                       
 - 🌱 I'm currently focused on building scalable data pipelines & optimizing our existing data infrastructure for reporting. [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
@@ -61,5 +63,18 @@ Data Engineer @ Techorc Software Solutions 💼
   <img src="Resource/img5.png" alt="Generative AI Fundamentals Badge" style="height: 120px; margin: 10px;">
   <img src="Resource/img6.jpg" alt="Introduction To Data Engineering on Azure" style="height: 120px; margin: 10px;">
   <img src="Resource/img7.png" alt="Azure Databricks Platform Architect" style="height: 120px; margin: 10px;">
+  <img src="Resource/img8.jpg" alt="Azure Data Engineering Certificate" style="height: 120px; margin: 10px;">
+</div>
+
+### 🏅 Certifications & Badges - new
+
+<div style="text-align: center;">
+  <img src="Resource/img1.png" alt="Snowflake DataWarehouse Badge" style="height: 120px; margin: 10px;">
+  <img src="Resource/img3.png" alt="Snowflake DataEngineering Badge" style="height: 120px; margin: 10px;">
+  <img src="Resource/img4.png" alt="Databricks Fundamental Badge" style="height: 120px; margin: 10px;">
+  <img src="Resource/img5.png" alt="Generative AI Fundamentals Badge" style="height: 120px; margin: 10px;">
+  <img src="Resource/img7.png" alt="Azure Databricks Platform Architect" style="height: 120px; margin: 10px;">
+  <img src="Resource/img6.jpg" alt="Introduction To Data Engineering on Azure" style="height: 120px; margin: 10px;">
+  <img src="Resource/img2.jpg" alt="Python for Databases - Learning Data Management with Python" style="height: 120px; margin: 10px;">
   <img src="Resource/img8.jpg" alt="Azure Data Engineering Certificate" style="height: 120px; margin: 10px;">
 </div>
