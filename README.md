@@ -54,6 +54,12 @@ Data Engineer @ Techorc Software Solutions 💼
 ### 🏅 Certifications & Badges
 
 <div style="text-align: center;">
-  <img src="YOUR_SNOWFLAKE_BADGE_IMAGE_URL_HERE" alt="Snowflake Badge" style="height: 120px; margin: 10px;">
-  <img src="YOUR_DATABRICKS_BADGE_IMAGE_URL_HERE" alt="Databricks Badge" style="height: 120px; margin: 10px;">
+  <img src="Resource/img1.png" alt="Snowflake_DataWarehouse_Badge" style="height: 120px; margin: 10px;">
+  <img src="Resource/img2.jpg" alt="Python for Databases - Learning Data Management with Python" style="height: 120px; margin: 10px;">
+  <img src="Resource/img3.png" alt="Snowflake DataEngineering Badge" style="height: 120px; margin: 10px;">
+  <img src="Resource/img4.png" alt="Databricks Fundamental Badge" style="height: 120px; margin: 10px;">
+  <img src="Resource/img5.png" alt="Generative AI Fundamentals Badge" style="height: 120px; margin: 10px;">
+  <img src="Resource/img6.jpg" alt="Introduction To Data Engineering on Azure" style="height: 120px; margin: 10px;">
+  <img src="Resource/img7.png" alt="Azure Databricks Platform Architect" style="height: 120px; margin: 10px;">
+  <img src="Resource/img8.jpg" alt="Azure Data Engineering Certificate" style="height: 120px; margin: 10px;">
 </div>
